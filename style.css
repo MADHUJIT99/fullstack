@@ -1,0 +1,47 @@
+.hell0{
+    color: black;
+    background-color: rgb(106, 109, 111);
+    width: 745px;
+    position: absolute;
+    left:380px;
+}
+.ct{
+    color:black;
+    background-color: rgb(106, 109, 111);
+    width:270px ;
+}
+.hell{
+    color:black;
+    background-color: rgb(106, 109, 111);
+    width: 470px;
+}
+.pp{
+    color:black;
+    background-color: rgb(106, 109, 111);
+    width: 270px;
+}
+.edu{
+    color:black;
+    background-color: rgb(106, 109, 111);
+    width: 475px;
+}
+.area{
+    color:black;
+    background-color: rgb(106, 109, 111);
+    width: 270px;
+}
+.pr{
+    color:black;
+    background-color: rgb(106, 109, 111);
+    width: 475px;
+}
+
+
+.q{
+    position: absolute;
+    left:380px;
+    top: 110px;
+}
+.font{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
